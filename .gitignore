@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+env.py
+
+# Kaggle
+/kaggle/working/*
+!/kaggle/working/kaggle-template/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Outputs
+outputs/
+*.csv
+*.pkl
+*.pth
+*.ipynb_checkpoints/
